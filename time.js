@@ -4,7 +4,7 @@ let minutes = document.querySelector(".minutes");
 let seconds = document.querySelector(".seconds");
 
 function examTime(){
-  let days = new Date("August 7, 2022 21:00:00");
+  let days = new Date("August 17, 2022 21:00:00");
   let currentDate = new Date();
   let totalTime = days - currentDate;
 
@@ -55,3 +55,5 @@ classLists('https://scrimba.com/scrim/cNNvMwhZ?a=19.0.1.L8_9','3');
 classLists('https://scrimba.com/scrim/cqDgnmuN?a=160.3779.1.L6_44','4');
 
 classLists('https://scrimba.com/scrim/cPW773Cv?a=146.0.1.L10_19-10_31','5');
+
+classLists('https://scrimba.com/scrim/cPPredCD?a=19152.0.1.L23_41','6');
