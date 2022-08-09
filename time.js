@@ -42,7 +42,7 @@ let classListShow = document.querySelector('.listOfClass');
 
 function classLists(lists, num, title){
   
-classListShow.innerHTML += `<col class="m-4"><a class="bg-secondary text-light p-2 fs-4" href="${lists}" title="${title}"> Class-${num} </a></col>`;
+classListShow.innerHTML += `<col class="m-4"><a class="bg-secondary text-light p-2 fs-4 btn btn-secondary" data-bs-toggle="tooltip" data-bs-html="true" href="${lists}" title="${title}"> Class-${num} </a></col>`;
 
   return classListShow;
 }
