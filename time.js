@@ -40,9 +40,9 @@ year.innerHTML = currentYear;
 
 let classListShow = document.querySelector('.listOfClass');
 
-function classLists(lists, num){
+function classLists(lists, num, title){
   
-classListShow.innerHTML += `<col class="m-4"><a class="bg-secondary text-light p-2 fs-4" href="${lists}">Class-${num} </a></col>`;
+classListShow.innerHTML += `<col class="m-4"><a class="bg-secondary text-light p-2 fs-4" href="${lists}" title="${title}"> Class-${num} </a></col>`;
 
   return classListShow;
 }
@@ -54,6 +54,6 @@ classLists('https://scrimba.com/scrim/cNNvMwhZ?a=19.0.1.L8_9','3');
 
 classLists('https://scrimba.com/scrim/cqDgnmuN?a=160.3779.1.L6_44','4');
 
-classLists('https://scrimba.com/scrim/cPW773Cv?a=146.0.1.L10_19-10_31','5');
+classLists('https://scrimba.com/scrim/cPW773Cv?a=146.0.1.L10_19-10_31','5', 'Advance Link');
 
-classLists('https://scrimba.com/scrim/cPPredCD?a=19152.0.1.L23_41','6');
+classLists('https://scrimba.com/scrim/cPPredCD?a=19152.0.1.L23_41','6', 'HTML Forms');
