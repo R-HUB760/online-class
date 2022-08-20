@@ -57,3 +57,5 @@ classLists('https://scrimba.com/scrim/cqDgnmuN?a=160.3779.1.L6_44','4');
 classLists('https://scrimba.com/scrim/cPW773Cv?a=146.0.1.L10_19-10_31','5', 'Advance Link');
 
 classLists('https://scrimba.com/scrim/cPPredCD?a=19152.0.1.L23_41','6', 'HTML Forms');
+
+classLists('https://scrimba.com/scrim/ceVM4vAq?a=251.0.1.L4_52','7', 'Form, text, select, option, phone, email');
