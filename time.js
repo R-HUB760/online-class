@@ -59,3 +59,6 @@ classLists('https://scrimba.com/scrim/cPW773Cv?a=146.0.1.L10_19-10_31','5', 'Adv
 classLists('https://scrimba.com/scrim/cPPredCD?a=19152.0.1.L23_41','6', 'HTML Forms');
 
 classLists('https://scrimba.com/scrim/ceVM4vAq?a=251.0.1.L4_52','7', 'Form, text, select, option, phone, email');
+
+classLists('https://scrimba.com/scrim/cG8mkzCG?a=276.0.1.L7_2','8', 'select, optgroup, option,');
+classLists('https://scrimba.com/scrim/cE49JgfB?a=266.0.1.L8_34','8', 'Data List, Radio Button');
