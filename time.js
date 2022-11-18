@@ -4,7 +4,7 @@ let minutes = document.querySelector(".minutes");
 let seconds = document.querySelector(".seconds");
 
 function examTime(){
-  let days = new Date("August 26, 2022 21:00:00");
+  let days = new Date("November 20, 2022 19:00:00");
   let currentDate = new Date();
   let totalTime = days - currentDate;
 
