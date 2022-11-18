@@ -4,7 +4,7 @@ let minutes = document.querySelector(".minutes");
 let seconds = document.querySelector(".seconds");
 
 function examTime(){
-  let days = new Date("September 2, 2022 21:00:00");
+  let days = new Date("November 20, 2022 19:00:00");
   let currentDate = new Date();
   let totalTime = days - currentDate;
 
@@ -42,7 +42,7 @@ let classListShow = document.querySelector('.listOfClass');
 
 function classLists(lists, num, title){
   
-classListShow.innerHTML += `<col class="m-4"><a class="bg-secondary text-light p-2 fs-4 btn btn-secondary" data-bs-toggle="tooltip" data-bs-html="true" href="${lists}" title="${title}"> Class-${num} </a></col>`;
+classListShow.innerHTML += `<col class="m-4"><a class="bg-secondary m-2 text-light p-2 fs-4 btn btn-secondary" data-bs-toggle="tooltip" data-bs-html="true" href="${lists}" title="${title}"> Class-${num} </a></col>`;
 
   return classListShow;
 }
