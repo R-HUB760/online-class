@@ -63,5 +63,5 @@ classLists('https://scrimba.com/scrim/ceVM4vAq?a=251.0.1.L4_52','7', 'Form, text
 classLists('https://scrimba.com/scrim/cG8mkzCG?a=276.0.1.L7_2','8', 'select, optgroup, option,');
 classLists('https://scrimba.com/scrim/cE49JgfB?a=266.0.1.L8_34','8', 'Data List, Radio Button');
 classLists('https://scrimba.com/scrim/ckWKRKCV?a=1902.2862.1.L6_14','9', 'Details, summay, div, h4, p');
-classLists('https://scrimba.com/scrim/cJPD9dsq?a=41120.0.2.L59_3','1', 'CSS syntax, CSS selectors, Simple and Combine selectors');
-classLists('https://scrimba.com/scrim/cJPD9dsq?a=41120.0.2.L59_3','2', 'Pseudo-class selectors, Pseudo-elements selectors, Attribute selectors');
+classLists('https://scrimba.com/scrim/cJPD9dsq?a=41120.0.2.L59_3','10', 'CSS syntax, CSS selectors, Simple and Combine selectors');
+classLists('https://scrimba.com/scrim/cJPD9dsq?a=41120.0.2.L59_3','11', 'Pseudo-class selectors, Pseudo-elements selectors, Attribute selectors');
